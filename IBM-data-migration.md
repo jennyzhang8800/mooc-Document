@@ -51,8 +51,9 @@ sudo gitlab-ctl reconfigure
 
    xblock无法迁移，需要重新安装。下面是MOOC平台中XBlcok安装的帮助：
    
-  * [Piazza](https://github.com/jennyzhang8800/mooc-PiazzaXBlock)
-  * [练习题](https://github.com/jennyzhang8800/mooc-Quizzes2XBlock)
-  * [题库编辑](https://github.com/jennyzhang8800/mooc-ExerciseMdf)
-  * [代码浏览与编辑](https://github.com/xyongcn/online_experiment_platform/tree/master/XBlock)
+ * [Piazza](https://github.com/jennyzhang8800/mooc-PiazzaXBlock)
+  
+ * [练习题](https://github.com/jennyzhang8800/mooc-Quizzes2XBlock)
+ * [题库编辑](https://github.com/jennyzhang8800/mooc-ExerciseMdf)
+ * [代码浏览与编辑](https://github.com/xyongcn/online_experiment_platform/tree/master/XBlock)
     

@@ -45,7 +45,7 @@ sudo gitlab-ctl reconfigure
 
 ##2. edx数据迁移
 
-+ 1. Mongo数据迁移
++ 1.Mongo数据迁移
 
  * (1)先在机器A（IBM edx机器）进行mongo数据库的备份
   
@@ -75,7 +75,7 @@ sudo gitlab-ctl reconfigure
   --drop：恢复的时候，先删除当前数据，然后恢复备份的数据。就是说，恢复后，备份后添加修改的数据都会被删除，慎用哦！
 
 ```
-+ 2. xblock迁移
++ 2.xblock迁移
 
    xblock无法迁移，需要重新安装。下面是MOOC平台中XBlcok安装的帮助：
    

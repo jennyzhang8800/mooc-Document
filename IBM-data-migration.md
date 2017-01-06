@@ -84,4 +84,4 @@ sudo gitlab-ctl reconfigure
  * [练习题](https://github.com/jennyzhang8800/mooc-Quizzes2XBlock)
  * [题库编辑](https://github.com/jennyzhang8800/mooc-ExerciseMdf)
  * [代码浏览与编辑](https://github.com/xyongcn/online_experiment_platform/tree/master/XBlock)
-    
+ * [练习题完成情况统计](https://github.com/jennyzhang8800/mooc-StatisticXblock)

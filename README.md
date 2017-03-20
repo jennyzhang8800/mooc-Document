@@ -40,9 +40,15 @@
 <h2 id="link">4. 相关链接</h2>
 
 + <h4 id="IBM">张禹在IBM上的MOOC平台布署：</h4>[点此查看](https://github.com/xyongcn/online_experiment_platform)
+
 + <h4 id="blog">张燕妮的博客：</h4>一些布署的记录，有部分内容己合并到“MOOC平台的布署文档及配置文件备份”
+
  + [edx有关](http://blog.csdn.net/jenyzhang/article/category/3141095)
  + [shibboleth有关](http://blog.csdn.net/jenyzhang/article/category/6337293)
+ 
 + <h4 id="zyni">张燕妮github：</h4>[点此查看](https://github.com/jennyzhang8800/) 以mooc开头的仓库
+
 + <h4 id="zyu">张禹github：</h4>[点此查看](https://github.com/rainymoon911/)
+
 + <h4 id="lfwen">罗富文github：</h4>[点此查看](https://github.com/Heaven1881/) 以mooc开头的仓库
+

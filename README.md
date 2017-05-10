@@ -61,4 +61,6 @@ xblock代码仓库：https://github.com/xyongcn/code-viewer/tree/master/document
 
 日志文件：/var/www/gitlab_codebrowser.log
 脚本路径：/edx/var/edxapp/staticfiles/xblock-script
-本地ucore代码/edx/var/edxapp/staticfiles/ucore
+本地ucore代码：/edx/var/edxapp/staticfiles/ucore
+账号初始化脚本：/edx/app/edxapp/edx-platform/common/djangoapps/student/views.py
+

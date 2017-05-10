@@ -52,3 +52,11 @@
 
 + <h4 id="lfwen">罗富文github：</h4>[点此查看](https://github.com/Heaven1881/) 以mooc开头的仓库
 
+
+## xblock汇总
+
+### codebrowser 代码浏览
+
+xblock代码仓库：https://github.com/xyongcn/code-viewer/tree/master/document_by_zyu/xblock-gitlab/edx-xblock-codebrowser
+
+日志文件：/var/www/gitlab_codebrowser.log

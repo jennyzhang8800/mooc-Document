@@ -60,3 +60,5 @@
 xblock代码仓库：https://github.com/xyongcn/code-viewer/tree/master/document_by_zyu/xblock-gitlab/edx-xblock-codebrowser
 
 日志文件：/var/www/gitlab_codebrowser.log
+脚本路径：/edx/var/edxapp/staticfiles/xblock-script
+本地ucore代码/edx/var/edxapp/staticfiles/ucore

@@ -1,5 +1,9 @@
 > 目标：我们要找到登录时对应的html页面，进行修改。
 
+修改前的登录页面如下：
+
+![image](https://github.com/jennyzhang8800/mooc-Document/blob/master/pictures/login.png)
+
 1. **首先：由于edx登录时所用的url是：http://cherry.cs.tsinghua.edu.cn/login
 因此，我们通过查看urls.py文件中login对应的模板，可以知道对应的html路径**
 
@@ -145,5 +149,18 @@ form表单里的内容就是页面的定义：
 ```
 
 保存！登录页面己修改成功！
+
+修改后的登录页面如下：
+
+![image](https://github.com/jennyzhang8800/mooc-Document/blob/master/pictures/login_shibboleth.png)
+
+
+### 文件备份：
+
++ 修改前的login.underscore:[login.underscore.backup](https://github.com/jennyzhang8800/mooc-Document/blob/master/files/login.underscore.backup)
+
++ 修改后的login.underscore:[login.underscore](https://github.com/jennyzhang8800/mooc-Document/blob/master/files/login.underscore)
+
+
 
 

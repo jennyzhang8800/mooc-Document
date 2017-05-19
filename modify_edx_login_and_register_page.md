@@ -109,13 +109,16 @@ form表单里的内容就是页面的定义：
 把不需要的内容删除，form表单内容如下：
 ```
 <form id="login" class="login-form" tabindex="-1">
- <% if ( context.providers.length > 0 && !context.currentProvider || context.hasSecondaryProviders ) { %>
-    <div class="login-providers">
+
  <div class="section-title lines">
  <h2>
- <span class="text"><%- gettext(" sign in with") %></span>
+ <span class="text"><%- gettext("login with shibboleth") %></span>
  </h2>
  </div>
+
+
+ <% if ( context.providers.length > 0 && !context.currentProvider || context.hasSecondaryProviders ) { %>
+    <div class="login-providers">
 
  <% _.each( context.providers, function( provider ) {
  if ( provider.loginUrl ) { %>
@@ -133,7 +136,7 @@ form表单里的内容就是页面的定义：
 
  <% if ( context.hasSecondaryProviders ) { %>
  <button type="button" class="button-secondary-login form-toggle" data-type="institution_login">
- <%- gettext("Use my institution/campus credentials") %>
+ <%- gettext(" Shibboleth Login") %>
  </button>
  <% } %>
  </div>

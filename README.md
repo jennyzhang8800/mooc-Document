@@ -35,12 +35,12 @@
    
 <h2 id="migration">3. IBM到实验室MOOC平台的数据迁移</h2>
 
-+ [IBM-data-migration.md](https://github.com/jennyzhang8800/mooc-Document/blob/master/IBM-data-migration.md): 该文档描述的是把布署于IBM的MOOC平台数据迁移到现有实验室MOOC平台的方法
++ [IBM-data-migration.md](https://github.com/jennyzhang8800/mooc-Document/blob/master/documentation/IBM-data-migration.md): 该文档描述的是把布署于IBM的MOOC平台数据迁移到现有实验室MOOC平台的方法
 
 <h2 id="modify">4.后续修改汇总</h2>
 
 + <h4 >去除edx登录页面多余信息，只允许shibboleth登录：</h4>
-[点此查看](https://github.com/jennyzhang8800/mooc-Document/blob/master/modify_edx_login_and_register_page.md)
+[点此查看](https://github.com/jennyzhang8800/mooc-Document/blob/master/documentation/modify_edx_login_and_register_page.md)
 
 + <h4 >apt-get upgrade　不升级gitlab：</h4>
 [点此查看](http://blog.csdn.net/jenyzhang/article/details/72510631)

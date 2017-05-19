@@ -39,7 +39,13 @@
 
 <h2 id="modify">4.后续修改汇总</h2>
 
-+ <h4 id="IBM">去除edx登录页面多余信息，只允许shibboleth登录：</h4>[点此查看](https://github.com/jennyzhang8800/mooc-Document/blob/master/modify_edx_login_and_register_page.md)
++ <h4 >去除edx登录页面多余信息，只允许shibboleth登录：</h4>
+[点此查看](https://github.com/jennyzhang8800/mooc-Document/blob/master/modify_edx_login_and_register_page.md)
+
++ <h4 >apt-get upgrade　不升级gitlab：</h4>
+[点此查看](http://blog.csdn.net/jenyzhang/article/details/72510631)
+
+
 
 <h2 id="link">5. 相关链接</h2>
 

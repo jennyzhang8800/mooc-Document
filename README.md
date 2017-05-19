@@ -7,6 +7,7 @@
 * [机器列表](#framework)
 * [MOOC平台的布署文档及配置文件备份](#mooc)
 * [IBM到实验室MOOC平台的数据迁移](#migration)
+* [后续修改汇总](#modify)
 * [相关链接](#link)
  + [张禹在IBM上的MOOC平台布署](#IBM)
  + [张燕妮的博客](#blog)
@@ -36,8 +37,11 @@
 
 + [IBM-data-migration.md](https://github.com/jennyzhang8800/mooc-Document/blob/master/IBM-data-migration.md): 该文档描述的是把布署于IBM的MOOC平台数据迁移到现有实验室MOOC平台的方法
 
+<h2 id="modify">4.后续修改汇总</h2>
 
-<h2 id="link">4. 相关链接</h2>
++ <h4 id="IBM">去除edx登录页面多余信息，只允许shibboleth登录：</h4>[点此查看](https://github.com/jennyzhang8800/mooc-Document/blob/master/modify_edx_login_and_register_page.md)
+
+<h2 id="link">5. 相关链接</h2>
 
 + <h4 id="IBM">张禹在IBM上的MOOC平台布署：</h4>[点此查看](https://github.com/xyongcn/online_experiment_platform)
 

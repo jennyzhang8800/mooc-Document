@@ -45,7 +45,9 @@
 + <h4 >apt-get upgrade　不升级gitlab：</h4>
 [点此查看](http://blog.csdn.net/jenyzhang/article/details/72510631)
 
++ <h4 >edx Studio样式缺失</h4>
 
+[点此查看](https://github.com/jennyzhang8800/mooc-Document/blob/master/documentation/Studio_css_lost.md)
 
 <h2 id="link">5. 相关链接</h2>
 

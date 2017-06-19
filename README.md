@@ -49,6 +49,11 @@
 
 [点此查看](https://github.com/jennyzhang8800/mooc-Document/blob/master/documentation/Studio_css_lost.md)
 
+
++ <h4 >Shibboleth页面出错</h4>
+
+[点此查看](https://github.com/jennyzhang8800/mooc-Document/blob/master/documentation/shibboleth_trouble_shooting.md)
+
 <h2 id="link">5. 相关链接</h2>
 
 + <h4 id="IBM">张禹在IBM上的MOOC平台布署：</h4>[点此查看](https://github.com/xyongcn/online_experiment_platform)

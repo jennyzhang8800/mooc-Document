@@ -14,6 +14,7 @@
  + [张燕妮github](#zyni)
  + [张禹github](#zyu)
  + [罗富文github](#lfwen)
+ + [XBlock](#xblock)
 <hr/>
 
 <h2 id="framework">1. 机器列表</h2>
@@ -70,14 +71,28 @@
 + <h4 id="lfwen">罗富文github：</h4>[点此查看](https://github.com/Heaven1881/) 以mooc开头的仓库
 
 
-## xblock汇总
+ + <h4 id="xblock">XBlock</h4>
 
+BASE_PATH='/edx/app/edxapp/venvs/edxapp/lib/python2.7/site-packages/'
+
+| xblock名 称  | 接口名   | 存储路径 | 开发人员 | 布署文档 |
+| :-------------: |:-------------:| :-----:| :-----:| :-----:|
+| docker        | uc_docker | BASE_PATH/uc_docker | 郭旭，张禹 | [点击查看](https://github.com/xyongcn/online_experiment_platform/tree/master/XBlock/uc_docker) |
+| 代码浏览器     | codebrowser | BASE_PATH/codebrowser | 张禹 | [点击查看](https://github.com/xyongcn/online_experiment_platform/tree/master/XBlock/xblock-codebrowser) |
+| 代码编辑器     | jennystart  | BASE_PATH/jennystart  | 张禹，张燕妮 | [点击查看](https://github.com/xyongcn/online_experiment_platform/tree/master/XBlock/xblock-codeeditor) |
+| Piazza问答服务 | piazza      | BASE_PATH/piazza      | 张燕妮 | [点击查看](https://github.com/jennyzhang8800/mooc-PiazzaXBlock) |
+| 练习           | quizzes2    | BASE_PATH/quizzes2   | 罗富文 | [点击查看](https://github.com/jennyzhang8800/mooc-Quizzes2XBlock) |
+| 简答题评分     | grade       | BASE_PATH/grade       | 张燕妮 | [点击查看](https://github.com/jennyzhang8800/grade_xblock) |
+| 题库编辑       | exercisemdf | BASE_PATH/exercisemdf |  罗富文|   [点击查看](https://github.com/jennyzhang8800/mooc-ExerciseMdf) |
+| 练习题完成情况统计 | statistic | BASE_PATH/statistic | 张燕妮 | [点击查看](https://github.com/jennyzhang8800/mooc-StatisticXblock) |
+| 统计浏览器 | chartsbrowser |BASE_PATH/chartsbrowser | 罗富文| [点击查看](https://github.com/Heaven1881/mooc-ChartsBrowser) |
 ### codebrowser 代码浏览
 
 xblock代码仓库：https://github.com/xyongcn/code-viewer/tree/master/document_by_zyu/xblock-gitlab/edx-xblock-codebrowser
-
+```
 日志文件：/var/www/gitlab_codebrowser.log
 脚本路径：/edx/var/edxapp/staticfiles/xblock-script
 本地ucore代码：/edx/var/edxapp/staticfiles/ucore
 账号初始化脚本：/edx/app/edxapp/edx-platform/common/djangoapps/student/views.py
+```
 

@@ -15,6 +15,7 @@
  + [张禹github](#zyu)
  + [罗富文github](#lfwen)
  + [XBlock](#xblock)
+ + [开源XBlock](#openxblock)
 <hr/>
 
 <h2 id="framework">1. 机器列表</h2>
@@ -71,7 +72,7 @@
 + <h4 id="lfwen">罗富文github：</h4>[点此查看](https://github.com/Heaven1881/) 以mooc开头的仓库
 
 
- + <h4 id="xblock">XBlock</h4>
+ <h2 id="xblock">XBlock</h2>
 
 BASE_PATH='/edx/app/edxapp/venvs/edxapp/lib/python2.7/site-packages/'
 
@@ -95,4 +96,10 @@ xblock代码仓库：https://github.com/xyongcn/code-viewer/tree/master/document
 本地ucore代码：/edx/var/edxapp/staticfiles/ucore
 账号初始化脚本：/edx/app/edxapp/edx-platform/common/djangoapps/student/views.py
 ```
+
+ <h2 id="openxblock">开源XBlock</h2>
+ 
+ [XBlocks Directory](https://openedx.atlassian.net/wiki/display/COMM/XBlocks+Directory)
+ 
+ [flow-control-xblock](https://github.com/eduNEXT/flow-control-xblock)
 

@@ -62,7 +62,7 @@
 
 + <h4 >删除docker脚本</h4>
 
-点此查看](https://github.com/jennyzhang8800/mooc-Document/tree/master/files/%E6%89%B9%E6%94%B9%E7%BB%83%E4%B9%A0%E9%A2%98%E8%84%9A%E6%9C%AC)
+点此查看](https://github.com/jennyzhang8800/mooc-Document/tree/master/files/%E5%88%A0%E9%99%A4docker)
 
 <h2 id="link">5. 相关链接</h2>
 

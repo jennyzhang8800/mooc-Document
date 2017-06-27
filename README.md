@@ -56,6 +56,10 @@
 
 [点此查看](https://github.com/jennyzhang8800/mooc-Document/blob/master/documentation/shibboleth_trouble_shooting.md)
 
++ <h4 >练习题批改脚本</h4>
+
+[点此查看](https://github.com/jennyzhang8800/mooc-Document/tree/master/files/%E6%89%B9%E6%94%B9%E7%BB%83%E4%B9%A0%E9%A2%98%E8%84%9A%E6%9C%AC)
+
 <h2 id="link">5. 相关链接</h2>
 
 + <h4 id="IBM">张禹在IBM上的MOOC平台布署：</h4>[点此查看](https://github.com/xyongcn/online_experiment_platform)

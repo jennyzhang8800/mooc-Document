@@ -90,8 +90,8 @@ sudo gitlab-ctl reconfigure
  
  IBM edx机器的数据备份位于实验室edx机器（IP：192.168.1.135）的``/home/zyni/IBM_backup``目录下
  
- |  IBM edx原路径 | 实验室edx备份名称   | 实验室edx备份名称 |
-| :-------------: |:-------------:| :-----:|
+ |  IBM edx原路径 | 实验室edx备份名称   | 
+| :-------------: |:-------------:| 
 | /edx/app/nginx     |edx-app-nginx.tar.gz |
 | /Lams    | lams.tar.gz | 
 | /home/lfwen      | git.tar.gz |

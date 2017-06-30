@@ -85,3 +85,18 @@ sudo gitlab-ctl reconfigure
  * [题库编辑](https://github.com/jennyzhang8800/mooc-ExerciseMdf)
  * [代码浏览与编辑](https://github.com/xyongcn/online_experiment_platform/tree/master/XBlock)
  * [练习题完成情况统计](https://github.com/jennyzhang8800/mooc-StatisticXblock)
+ 
+ ### 数据备份
+ 
+ IBM edx机器的数据备份位于实验室edx机器（IP：192.168.1.135）的``/home/zyni/IBM_backup``目录下
+ 
+ |  IBM edx原路径 | 实验室edx备份名称   | 实验室edx备份名称 |
+| :-------------: |:-------------:| :-----:|
+| /edx/app/nginx     |edx-app-nginx.tar.gz |
+| /Lams    | lams.tar.gz | 
+| /home/lfwen      | git.tar.gz |
+| /home/lfwen  |lfwen.tar.gz |
+| /home/zyu | zyu.tar.gz |
+| /home/opuser | opuser.tar.gz |
+| /var/www/zyni/script | var-www-zyni-script.tar.gz |
+| /edx/app/edxapp/venvs/edxapp/lib/python2.7/site-packages | site-package-backup.tar.gz |
